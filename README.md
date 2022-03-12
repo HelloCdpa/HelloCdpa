@@ -12,18 +12,18 @@
  
    국비지원 6개월 과정 최종 프로젝트로, 배운 것을 확실히 익히고 써보고자 개인프로젝트로 진행하였습니다.  
    
- [발표자료 ppt](file:///C:/Users/Park/Downloads/cocolo-%EB%B0%9C%ED%91%9C-%EC%9E%90%EB%A3%8C.html)  
+ <a href="file:///C:/Users/Park/Downloads/cocolo-%EB%B0%9C%ED%91%9C-%EC%9E%90%EB%A3%8C.html">발표자료 ppt</a>  
  
- [GitHub](https://github.com/HelloCdpa/cocolo220129)
- 
+ <a href="https://github.com/HelloCdpa/cocolo220129">GitHub</a>
+
 ### 🎮 NFT 게임 커뮤니티
 : Spring FrameWork 기반으로 제작한 NFT 게임 유저들을 위한 커뮤니티 입니다.  
 
   개발을 배운 지 얼마 되지 않은 프로젝트라 미흡한 점이 많습니다. 👶  
   
-[기능 ppt](https://hellocdpa.github.io/nftcom.html)  
-
-[GitHub](https://github.com/HelloCdpa/nftGameCommu) 
+  <a href="https://hellocdpa.github.io/nftcom.html">기능 ppt</a>  
+  
+  <a href="https://github.com/HelloCdpa/nftGameCommu">GitHub</a>
 
 # ⚙ My Skills
 
