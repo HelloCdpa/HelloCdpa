@@ -5,6 +5,28 @@
 <!-- 인사 -->
 ## Welcome to my GitHub👋 초보 백엔드개발자 Lin 입니다🤹‍♀️
 
+# 🔎 My Project
+ 
+### 👩‍🔧 개발자 온라인 강의 사이트 Cocolo 
+ : Spring Boot 기반으로 제작한 개발자 온라인 강의 사이트 & 커뮤니티 입니다.  
+ 
+   국비지원 6개월 과정 최종 프로젝트로, 배운 것을 확실히 익히고 써보고자 개인프로젝트로 진행하였습니다.  
+   
+ [발표자료 ppt](file:///C:/Users/Park/Downloads/cocolo-%EB%B0%9C%ED%91%9C-%EC%9E%90%EB%A3%8C.html)  
+ 
+ [GitHub](https://github.com/HelloCdpa/cocolo220129)
+ 
+### 🎮 NFT 게임 커뮤니티
+: Spring FrameWork 기반으로 제작한 NFT 게임 유저들을 위한 커뮤니티 입니다.  
+
+  개발을 배운 지 얼마 되지 않은 프로젝트라 미흡한 점이 많습니다. 👶  
+  
+[기능 ppt](https://hellocdpa.github.io/nftcom.html)  
+
+[GitHub](https://github.com/HelloCdpa/nftGameCommu) 
+
+# ⚙ My Skills
+
 ## 💾 Databases
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
 
@@ -40,8 +62,6 @@
   <img src="https://img.shields.io/badge/github-%23000033.svg?style=for-the-badge&logo=github&logoColor=white"/>
  </div>
  
- 
- 
 <!-- 깃 정보 -->
 <div style="display: flex; align-items: flex-start;">
 <h3><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />Lin's GitHub information</h3>
@@ -53,11 +73,11 @@
 
 ## 🛸 contact 
 
-#### My velog 
+#### ✏ My velog | 1 day 1 commit && 1 velog challenge
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hellocdpa)](https://velog.io/@hellocdpa)
-#### Email
-phl1021@naver.com
-
+#### 📬 Email | phl1021@naver.com
+#### 📕 [Notion Portfolio](https://sleepy-hydrangea-a42.notion.site/d94a64ed8f314b19976ec06ca70569a1) 
+#### ✨ [Page Portfolio](https://hellocdpa.github.io/)
 
 <!-- 푸터 -->
 ![footer](https://capsule-render.vercel.app/api?section=footer&color=FFCCCC)
