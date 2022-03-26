@@ -12,7 +12,7 @@
  
    국비지원 6개월 과정 최종 프로젝트로, 배운 것을 확실히 익히고 써보고자 개인프로젝트로 진행하였습니다.  
    
- <a href="file:///C:/Users/Park/Downloads/cocolo-%EB%B0%9C%ED%91%9C-%EC%9E%90%EB%A3%8C.html">발표자료 ppt</a>  
+ <a href="https://drive.google.com/file/d/1N3UmdF-V48QixlbfwTYo7omMNLBxs9nz/view">시연발표 동영상</a>  
  
  <a href="https://github.com/HelloCdpa/cocolo220129">GitHub</a>
 
